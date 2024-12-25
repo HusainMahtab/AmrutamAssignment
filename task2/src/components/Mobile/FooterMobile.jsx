@@ -6,7 +6,7 @@ import { PiTwitterLogoThin } from "react-icons/pi";
 import { PiLinkedinLogoThin } from "react-icons/pi";
 function FooterMobile() {
   return (
-    <div className='lg:hidden w-full h-auto pb-12 px-4 p-6 flex justify-center items-center bg-[#3A643B2E]'>
+    <div className='w-full lg:hidden h-auto pb-12 px-4 p-6 flex justify-center items-center bg-[#3A643B2E]'>
         <div className=" grid place-content-center place-items-center gap-8">
            <div className='w-full h-[260px] grid place-content-center px-8 gap-4'>
               <h3 className='font-[DINPro-Bold] font-bold text-[18px] leading-[23.18px] text-[#3A643B]'>Get in touch</h3>
