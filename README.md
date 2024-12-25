@@ -7,7 +7,7 @@ It is a ui base assignment form Amrutam Pharmaceuticals to evaluate candidates f
 
 ---
 ### 1. Home Page - List of Tours
-![Home Page](https://github.com/HusainMahtab/travelApp/blob/main/front_end/src/assets/projectImage.pn)
+![Home Page](https://github.com/HusainMahtab/AmrutamAssignment/blob/main/task2/src/assets/Screenshot%20(386).png)
 
 ** Live project Link:(https://amrutamassignment.onrender.com/)
 ## Tech Stack
